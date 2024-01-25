@@ -3,6 +3,13 @@
 # ruby 2-conditionals.rb
 
 # Booleans
+if 1+1==2
+    puts "this is true"
+end
+
+if 1+1==3
+    puts "You should never see this"
+end
 
 # Boolean Expressions
 
